@@ -1,4 +1,6 @@
 # AIGameAgents
+Play tic-tac-toe and connect4 with Search(Minimax) Agents and Reinforcement Learning(Q Learning) Agents.
+
 ## Requirements
 - Python 3.12
 ## How to run
